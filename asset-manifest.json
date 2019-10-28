@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/simple-hooks-crud-app/static/css/main.88eaaa6d.chunk.css",
+    "main.js": "/simple-hooks-crud-app/static/js/main.2e8600a1.chunk.js",
+    "main.js.map": "/simple-hooks-crud-app/static/js/main.2e8600a1.chunk.js.map",
+    "runtime-main.js": "/simple-hooks-crud-app/static/js/runtime-main.44640e3e.js",
+    "runtime-main.js.map": "/simple-hooks-crud-app/static/js/runtime-main.44640e3e.js.map",
+    "static/js/2.3131b5cd.chunk.js": "/simple-hooks-crud-app/static/js/2.3131b5cd.chunk.js",
+    "static/js/2.3131b5cd.chunk.js.map": "/simple-hooks-crud-app/static/js/2.3131b5cd.chunk.js.map",
+    "index.html": "/simple-hooks-crud-app/index.html",
+    "precache-manifest.ef9e703bb550a42abdf5d890851f995a.js": "/simple-hooks-crud-app/precache-manifest.ef9e703bb550a42abdf5d890851f995a.js",
+    "service-worker.js": "/simple-hooks-crud-app/service-worker.js",
+    "static/css/main.88eaaa6d.chunk.css.map": "/simple-hooks-crud-app/static/css/main.88eaaa6d.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44640e3e.js",
+    "static/js/2.3131b5cd.chunk.js",
+    "static/css/main.88eaaa6d.chunk.css",
+    "static/js/main.2e8600a1.chunk.js"
+  ]
+}
